@@ -2,6 +2,8 @@
 
 follow these instructions to get the application running.
 
+command to install dependecies :
+"pip install -r requirements.txt"
 
 we have 2 sctrips for data transformation and data loading.
 
